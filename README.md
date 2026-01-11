@@ -23,14 +23,15 @@
 
 <h2>⚙️ Detalhes Técnicos</h2>
 <ul>
-  <li>TailwindCSS para a estilização/li>
+  <li>TailwindCSS para a estilização</li>
   <li>icones da biblioteca fontawesome</li>
   <li>tostify para gerar mensagens na tela de acordo com as ações</li>
   <li>metas utilizadas para melhorar o SEO do site</li>
-  <li>funcionalidade de aparecer serviços disponíveis de acordo com horário de funcionamento </li>
+  <li>lógica de aparecer serviços disponíveis de acordo com horário de funcionamento</li>
   <li>Manipulação do DOM e eventos</li>
   <li>Criação de array para depois renderizar na tela dinamicamente com foreach</li>
   <li>funções de adicionar, editar e remover items no carrinho</li>
   <li>paradigma de programação estruturado</li>
-  
+  <li>API do whatsapp com numero e mensagens dinâmica</li>
+  <li>manipulação de cores com tostify de acordo a ação tomada</li>
 </ul>
