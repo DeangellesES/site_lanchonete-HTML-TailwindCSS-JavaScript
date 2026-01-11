@@ -9,24 +9,28 @@
 <ul>
   <li><b>HTML</b></li>
   <li><b>CSS</b> - TailwindCSS</li>
-  <li><b>JavaScript</b> vanilla</li>
+  <li><b>JavaScript</b> - vanilla</li>
 </ul>
 
 <h2>✨ Funcionalidades</h2>
 <ul>
-  <li>Informações sobre a Oficina</li>
-  <li>Mostrar Serviços</li>
-  <li>Mostrar processos de atendimento</li>
-  <li>Informações de contatos, localização e horário de funcionamento</li>
-  <li>Mostrar perguntas mais frequentes respondidas</li>
+  <li>Mostrar horário atendimento</li>
+  <li>Mostrar localização</li>
+  <li>Mostrar menu completo com preço</li>
+  <li>Carrinho com itens selecionados</li>
+  <li>Pedidos direto no whatsapp com informações de endereço</li>
 </ul>
 
 <h2>⚙️ Detalhes Técnicos</h2>
 <ul>
-  <li>icones do React Icons</li>
-  <li>fonte do Google fonts</li>
-  <li>styled-components usado para a estilização com aninhamentos</li>
-  <li>fiveicon na aba do topo </li>
-  <li>rooks react utilizados para criar efeito bonito no cabecalho da página com evento de scroll juntamente com operador ternário</li>
-  <li>rook react utilizado para criar efeito de mostrar e esconder iformações ao clicar no icone, ao clica rno icone ele tem o efeito de girar, items atribuidos em array de objetos e rederizado com o método map() e utilizando operador ternário na seção de perguntas frequentes</li>
+  <li>TailwindCSS para a estilização/li>
+  <li>icones da biblioteca fontawesome</li>
+  <li>tostify para gerar mensagens na tela de acordo com as ações</li>
+  <li>metas utilizadas para melhorar o SEO do site</li>
+  <li>funcionalidade de aparecer serviços disponíveis de acordo com horário de funcionamento </li>
+  <li>Manipulação do DOM e eventos</li>
+  <li>Criação de array para depois renderizar na tela dinamicamente com foreach</li>
+  <li>funções de adicionar, editar e remover items no carrinho</li>
+  <li>paradigma de programação estruturado</li>
+  
 </ul>
